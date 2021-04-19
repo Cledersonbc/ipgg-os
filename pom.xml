@@ -10,7 +10,7 @@
 	<name>ipgg-os</name>
 
 	<properties>
-		<vaadin.version>8.1.5</vaadin.version>
+		<vaadin.version>8.12.3</vaadin.version>
 		<!-- https://vaadin.com/download/prerelease/8.1/8.1.0/8.1.0.rc2/docs/api/ -->
 		<vaadin.plugin.version>8.1.5</vaadin.plugin.version>
 
