@@ -31,7 +31,7 @@
 		<vaadin.widgetset.mode>local</vaadin.widgetset.mode>
 
 		<!-- <version.hibernate>5.2.11.Final</version.hibernate> -->
-		<version.hibernate>5.2.2.Final</version.hibernate>
+		<version.hibernate>5.4.24.Final</version.hibernate>
 		<version.hibernate-javassist>3.22.0-CR2</version.hibernate-javassist>
 		<version.hibernate-jpa-2.1-api>1.0.0.Final</version.hibernate-jpa-2.1-api>
 		<!-- version.persistence-api>1.0.2</version.persistence-api -->
